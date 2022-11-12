@@ -1,4 +1,4 @@
 <template lang="pug">
 main
-    h1 Index!
+    h1 Posts!
 </template>

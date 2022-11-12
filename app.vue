@@ -1,9 +1,8 @@
 <template lang="pug">
 div
-  header
+  base-header
     span Header!
-  main
-    nuxt-page
+  nuxt-page
   footer
     span Footer!
 </template>
